@@ -1,0 +1,12 @@
+﻿  Application.cpp
+C:\Users\Max.DESKTOP-29172\source\repos\RunClone\RunClone\src\engine\Engine.h(36,9): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Max.DESKTOP-29172\source\repos\RunClone\RunClone\src\engine\Engine.h(36,9): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Max.DESKTOP-29172\source\repos\RunClone\RunClone\src\engine\Engine.h(15,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Max.DESKTOP-29172\source\repos\RunClone\RunClone\src\engine\Engine.h(19,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Engine.cpp
+C:\Users\Max.DESKTOP-29172\source\repos\RunClone\RunClone\src\engine\Engine.h(36,9): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Max.DESKTOP-29172\source\repos\RunClone\RunClone\src\engine\Engine.h(36,9): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Max.DESKTOP-29172\source\repos\RunClone\RunClone\src\engine\Engine.h(15,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Max.DESKTOP-29172\source\repos\RunClone\RunClone\src\engine\Engine.h(19,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  RunClone.vcxproj -> C:\Users\Max.DESKTOP-29172\source\repos\RunClone\Debug\RunClone.exe
